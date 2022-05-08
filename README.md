@@ -15,7 +15,7 @@ tirer un. Celui qui tire le plus petit bout de bois dormira sans tente.
 Vous devez déterminer le prénom de la personne qui va dormir sans tente.
 On vous garantit qu’il n’y a pas d’égalité possible.
 
-#Dans [decolage.js](https://github.com/Michellah/Battle-dev/blob/main/decolage.js) :
+# Dans [decolage.js](https://github.com/Michellah/Battle-dev/blob/main/decolage.js) :
   Ça y est, vous y êtes. Dans moins d’une minute la fusée décollera et vous rentrerez dans l’Histoire. Tous
 les journaux titraient déjà ce matin “Tommy Pasqua, vers l’infini et au-delà !”.
 Le compte à rebours commence : 10. . . 9. . . 8. . .. Mais gros trou de mémoire, impossible de vous
