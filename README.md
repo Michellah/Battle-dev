@@ -1,5 +1,6 @@
 # Battle-dev
 # Dans [courtePaille.js](https://github.com/Michellah/Battle-dev/blob/main/courtePaille.js) :
+Le [sujet](https://github.com/Michellah/Battle-dev/blob/main/DRawStrawS_191_fr.pdf)
   En séminaire avec votre entreprise dans un pays exotique, vous avez la possibilité 
 de participer à plusieurs activités. L’excursion sur une île a l’air sympa mais vous 
 préférez participer à la randonnée sur 2 jours. Les paysages sur les chemins sont 
@@ -16,6 +17,7 @@ Vous devez déterminer le prénom de la personne qui va dormir sans tente.
 On vous garantit qu’il n’y a pas d’égalité possible.
 
 # Dans [decolage.js](https://github.com/Michellah/Battle-dev/blob/main/decolage.js) :
+Le [sujet](https://github.com/Michellah/Battle-dev/blob/main/CTSTFR0282_fr_591670453.pdf)
   Ça y est, vous y êtes. Dans moins d’une minute la fusée décollera et vous rentrerez dans l’Histoire. Tous
 les journaux titraient déjà ce matin “Tommy Pasqua, vers l’infini et au-delà !”.
 Le compte à rebours commence : 10. . . 9. . . 8. . .. Mais gros trou de mémoire, impossible de vous
