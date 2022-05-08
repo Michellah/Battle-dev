@@ -24,3 +24,6 @@ Le compte à rebours commence : 10. . . 9. . . 8. . .. Mais gros trou de mémoir
 souvenir du bouton pour décoller ! Heureusement vous vous souvenez d’une chose : parmi tous les
 boutons, c’est le seul qui apparaît exactement 2 fois.
 À partir de la liste des boutons, écrivez un programme renvoyant le bouton qui fera décoller la fusée.
+
+#Dans [ferme.js](https://github.com/Michellah/Battle-dev/blob/main/ferme.js) :
+ Il consiste de former un mot correct avec deux mots qui n'a aucun signification.
