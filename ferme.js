@@ -1,7 +1,7 @@
 function ferme(mot1,mot2){
     let tab=""
     for(let i=0;i<mot1.length;i++){
-       tab=mot1[i]+mot2[i]
+       tab+=mot1[i]+mot2[i]
     }
     return tab
 }
